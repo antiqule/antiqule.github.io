@@ -1,0 +1,19 @@
+{
+  "name": "Antiqule - Guess the Lost Territory",
+  "short_name": "Antiqule",
+  "description": "A daily geography and history game about vanished territories.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#d4b783",
+  "theme_color": "#3d2a1b",
+  "icons": [
+    {
+      "src": "./pwa-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
